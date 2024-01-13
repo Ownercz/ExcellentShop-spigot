@@ -37,9 +37,10 @@
             <url>https://repo.rosewooddev.io/repository/public/</url>
         </repository>
 
-        <repository>
-            <id>intellectualsites snapshots</id>
-            <url>https://maven.enginehub.org/repo/</url>
+         
+         <repository>
+            <id>alex9849</id>
+            <url>https://nexus.alex9849.net/repository/maven-releases/</url>
         </repository>
 
         <repository>
