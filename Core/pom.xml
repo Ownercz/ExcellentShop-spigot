@@ -40,7 +40,7 @@
          
          <repository>
             <id>alex9849</id>
-            <url>https://nexus.alex9849.net/repository/maven-releases/</url>
+            <url>https://nexus.alex9849.net/repository/maven-releases/net/alex9849/advancedregionmarket/</url>
         </repository>
 
         <repository>
