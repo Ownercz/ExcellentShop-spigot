@@ -38,8 +38,8 @@
         </repository>
 
          
-         <repository>
-            <id>alex9849</id>
+        <repository>
+            <id>intellectualsites snapshots</id>
             <url>https://nexus.alex9849.net/repository/maven-releases/net/alex9849/advancedregionmarket/</url>
         </repository>
 
